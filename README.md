@@ -1,4 +1,4 @@
-# test
+# 初识GitHub
 尝试使用GitHub
 今天主要是尝试GitHub的一些常用命令，熟悉GitHub的功能
 #### Git的常用命令行
